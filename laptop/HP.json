@@ -1,0 +1,52 @@
+{
+    "HP": [
+        {
+            "Device": "Envy J/K/N/Q",
+            "CPU": "",
+            "Audio": "",
+            "OS": "10.11 ~ 10.14",
+            "Author": "RehabMan",
+            "Link": "https://github.com/RehabMan/HP-Envy-DSDT-Patch"
+        },
+        {
+            "Device": "D062TU",
+            "CPU": "i3-3110M",
+            "Audio": "Realtek ALC282",
+            "OS": "10.14",
+            "Author": "khanhtrancse",
+            "Link": "https://github.com/khanhtrancse/hp-15-d062tu-hackintosh"
+        },
+        {
+            "Device": "ProBook",
+            "CPU": "",
+            "Audio": "",
+            "OS": "10.11 ~ 10.14",
+            "Author": "RehabMan",
+            "Link": "https://github.com/RehabMan/HP-ProBook-4x30s-DSDT-Patch"
+        },
+        {
+            "Device": "EliteBook",
+            "CPU": "",
+            "Audio": "",
+            "OS": "10.11 ~ 10.14",
+            "Author": "RehabMan",
+            "Link": "https://github.com/RehabMan/HP-ProBook-4x30s-DSDT-Patch"
+        },
+        {
+            "Device": "ZBook",
+            "CPU": "",
+            "Audio": "",
+            "OS": "10.11 ~ 10.14",
+            "Author": "RehabMan",
+            "Link": "https://github.com/RehabMan/HP-ProBook-4x30s-DSDT-Patch"
+        },
+        {
+            "Device": "HP Z420",
+            "CPU": "",
+            "Audio": "",
+            "OS": "10.12 10.13",
+            "Author": "NTT123",
+            "Link": "https://github.com/NTT123/Hackintosh-HP-Z420-MacOS-High-Sierra-10.13"
+        }
+    ]
+}

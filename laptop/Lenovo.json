@@ -1,0 +1,180 @@
+{
+    "Lenovo": [
+        {
+            "Audio": "",
+            "Author": "tylernguyen",
+            "CPU": "",
+            "Device": "Thinkpad X1C",
+            "Link": "https://github.com/tylernguyen/x1c6-hackintosh",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "",
+            "Author": "29satnam",
+            "CPU": "i5-7200u",
+            "Device": "310-14IKB",
+            "Link": "https://github.com/29satnam/LenovoHackintosh",
+            "OS": "10.13 10.14"
+        },
+        {
+            "Audio": "Realtek",
+            "Author": "athlonreg",
+            "CPU": "i5-6300HQ",
+            "Device": "小新700-15ISK",
+            "Link": "https://github.com/athlonreg/Lenovo-XiaoXin700-15ISK",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "Realtek",
+            "Author": "yunWJR",
+            "CPU": "i5-6300HQ",
+            "Device": "Y700",
+            "Link": "https://github.com/yunWJR/Hackintosh-y700-efi",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "",
+            "Author": "zohaad",
+            "CPU": "i5",
+            "Device": "Yoga 3 Pro",
+            "Link": "https://github.com/zohaad/hackintosh-Yoga-3-Pro",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "CX20751_2",
+            "Author": "Xc2333",
+            "CPU": "",
+            "Device": "v3000-ISE",
+            "Link": "https://github.com/Xc2333/Hackintosh-Lenovo-v3000-ISE",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "Realtek ALC283",
+            "Author": "RehabMan",
+            "CPU": "",
+            "Device": "U330/U430/U530",
+            "Link": "https://github.com/RehabMan/Lenovo-U430-Touch-DSDT-Patch",
+            "OS": "10.10 ~ 10.14"
+        },
+        {
+            "Audio": "",
+            "Author": "RehabMan",
+            "CPU": "Haswell",
+            "Device": "Y50-70",
+            "Link": "https://github.com/RehabMan/Lenovo-Y50-DSDT-Patch",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "",
+            "Author": "Maxvien",
+            "CPU": "",
+            "Device": "Z50-70",
+            "Link": "https://github.com/Maxvien/hackintosh-lenovo-z5070",
+            "OS": "10.11"
+        },
+        {
+            "Audio": "",
+            "Author": "dmitriypavlov",
+            "CPU": "i5",
+            "Device": "Thinkpad T430s",
+            "Link": "https://github.com/dmitriypavlov/T430s-macOS",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "",
+            "Author": "aviz",
+            "CPU": "",
+            "Device": "Thinkpad T440p",
+            "Link": "https://github.com/aviz/hackintosh",
+            "OS": "10.11"
+        },
+        {
+            "Audio": "Realtek ALC3232",
+            "Author": "Shmilee",
+            "CPU": "i5-5200U",
+            "Device": "Thinkpad T450",
+            "Link": "https://github.com/shmilee/T450-Hackintosh",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "Realtek® ALC3232",
+            "Author": "stevenmirabito",
+            "CPU": "i5-5200U",
+            "Device": "Thinkpad T450s",
+            "Link": "https://github.com/stevenmirabito/T450s-Hackintosh",
+            "OS": "10.11"
+        },
+        {
+            "Audio": "Realtek ALC293",
+            "Author": "totemofwolf",
+            "CPU": "i7-6820HQ",
+            "Device": "Thinkpad T460p",
+            "Link": "https://github.com/totemofwolf/Thinkpad-T460p-OSX-EFI",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "",
+            "Author": "LER0ever",
+            "CPU": "i7-6820HQ",
+            "Device": "Thinkpad T460P",
+            "Link": "https://github.com/LER0ever/Hackintosh",
+            "OS": "10.12"
+        },
+        {
+            "Audio": "Realtek ALC257",
+            "Author": "linusyang92",
+            "CPU": "i5-8250U",
+            "Device": "ThinkPad T480s",
+            "Link": "https://github.com/linusyang92/macOS-ThinkPad-T480s",
+            "OS": "10.14"
+        },
+        {
+            "Audio": "Conexant 20672",
+            "Author": "b-ggs",
+            "CPU": "i5-2540M",
+            "Device": "ThinkPad X220",
+            "Link": "https://github.com/b-ggs/x220-hackintosh",
+            "OS": "10.14"
+        },
+        {
+            "Audio": "",
+            "Author": "edu-rinaldi",
+            "CPU": "i5-3320m",
+            "Device": "ThinkPad X230",
+            "Link": "https://github.com/edu-rinaldi/Lenovo-x230-High-Sierra",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "Realtek ALC293",
+            "Author": "黑果小兵",
+            "CPU": "i5-6200U",
+            "Device": "Thinkpad X260",
+            "Link": "https://github.com/daliansky/ThinkPad-X260-hackintosh",
+            "OS": "10.13 10.14"
+        },
+        {
+            "Audio": "Realtek ALC236",
+            "Author": "TioaTyan",
+            "CPU": "i5-8300H",
+            "Device": "Legion Y7000",
+            "Link": "https://github.com/TioaTyan/Lenovo_Legion_Y7000-1060_Hackintosh",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "",
+            "Author": "Errrneist",
+            "CPU": "E3 1505M V5",
+            "Device": "Thinkpad P50",
+            "Link": "https://github.com/Errrneist/Hackintosh-Thinkpad-P50",
+            "OS": "10.12"
+        },
+        {
+            "Audio": "",
+            "Author": "hunterMG",
+            "CPU": "",
+            "Device": "G470",
+            "Link": "https://github.com/hunterMG/DSDT-Lenovo-G470",
+            "OS": "10.11 10.12"
+        }
+    ]
+}

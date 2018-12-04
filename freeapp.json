@@ -1,0 +1,140 @@
+[
+    {
+        "name": "Etcher",
+        "description": "简洁易用的镜像写入工具，三步做好启动盘",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/Etcher.png",
+        "link": "https://www.balena.io/etcher/"
+    },
+    {
+        "name": "Sublime",
+        "description": "轻快且强大的编辑神器，文件打开速度极快",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/Sublime.png",
+        "link": "https://www.sublimetext.com"
+    },
+    {
+        "name": "Mos",
+        "description": "平滑滚动小工具, 让你的滚轮爽如触控板",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/mos.png",
+        "link": "https://mos.caldis.me"
+    },
+    {
+        "name": "Termius",
+        "description": "简洁美观的终端，让远程 ssh 更简单",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/Termius.png",
+        "link": "http://www.termius.com"
+    },
+    {
+        "name": "截图",
+        "description": "腾讯出品的优质截图工具，截图标记轻松便捷",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/jietu.png",
+        "link": "http://jietu.qq.com"
+    },
+    {
+        "name": "Helm",
+        "description": "简单的 Hosts 修改工具，一键切换项目",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/Helm.png",
+        "link": "https://itunes.apple.com/cn/app/helm-hosts-%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86/id1099472017?mt=12"
+    },
+    {
+        "name": "IINA",
+        "description": "美观简洁，功能强大，拿来看剧，爽的一皮",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/IINA.png",
+        "link": "https://lhc70000.github.io/iina/"
+    },
+    {
+        "name": "HandShaker",
+        "description": "锤科出品，自如管理安卓手机文件",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/HandShaker.png",
+        "link": "https://www.smartisan.com/apps/handshaker"
+    },
+    {
+        "name": "Keka",
+        "description": "一个免费的文件解压缩程序",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/Keka.png",
+        "link": "http://www.kekaosx.com/"
+    },
+    {
+        "name": "Postman",
+        "description": "请求模拟工具，让 API 开发变得简单",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/postman.png",
+        "link": "https://www.getpostman.com"
+    },
+    {
+        "name": "Virtualbox",
+        "description": "小盒子很强嘛，还是免费的呢，虚拟机",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/virtualbox.png",
+        "link": "https://www.virtualbox.org"
+    },
+    {
+        "name": "ImageOptim",
+        "description": "图片压缩神器，支持 Guetzli 是最骚的",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/ImageOptim.png",
+        "link": "https://imageoptim.com/mac"
+    },
+    {
+        "name": "PicGo",
+        "description": "可能是最好用的且完全免费的图床工具了",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/PicGo.png",
+        "link": "https://github.com/Molunerfinn/PicGo"
+    },
+    {
+        "name": "GoogleEarth",
+        "description": "谷歌地球专业版，不说了，我要去旅行了",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/GoogleEarthPro.png",
+        "link": "https://www.google.com/earth/desktop/"
+    },
+    {
+        "name": "AppCleaner",
+        "description": "App 卸载清理器",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/AppCleaner.png",
+        "link": "https://freemacsoft.net/appcleaner/"
+    },
+    {
+        "name": "Cakebrew",
+        "description": "GUI 版的 Homebrew 管理器",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/Cakebrew.png",
+        "link": "https://www.cakebrew.com"
+    },
+    {
+        "name": "iTerm2",
+        "description": "终端，功能强大，插件丰富",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/iTerm2.png",
+        "link": "https://www.iterm2.com"
+    },
+    {
+        "name": "Hyper",
+        "description": "基于前端技术开发的终端，很炫酷",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/Hyper.png",
+        "link": "https://hyper.is"
+    },
+    {
+        "name": "CheatSheet",
+        "description": "长按 ⌘ 显示快捷键",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/CheatSheet.png",
+        "link": "https://www.mediaatelier.com/CheatSheet/"
+    },
+    {
+        "name": "订票助手",
+        "description": "12306 For Mac",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/12306mac.png",
+        "link": "https://github.com/fancymax/12306ForMac"
+    },
+    {
+        "name": "MacDown",
+        "description": "简洁的 Markdown 编辑器",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/MacDown.png",
+        "link": "http://macdown.uranusjr.com"
+    },
+    {
+        "name": "Yu Writer",
+        "description": "一款能找到写作乐趣的 Markdown 文本编辑器",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/YuWriter.png",
+        "link": "https://ivarptr.github.io/yu-writer.site/"
+    },
+    {
+        "name": "ShiftIt",
+        "description": "快捷键管理窗口位置和大小",
+        "icon": "https://pic.zhih.me/hackintosh/freeapp/ShiftIt.png",
+        "link": "https://github.com/fikovnik/ShiftIt/"
+    }
+]

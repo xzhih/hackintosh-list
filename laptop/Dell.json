@@ -1,0 +1,116 @@
+{
+    "Dell": [
+        {
+            "Audio": "Realtek ALC3246",
+            "Author": "冰水加劲Q",
+            "CPU": "i5-7200u i7-7500u",
+            "Device": "燃7000 7x60/7x72",
+            "Link": "https://github.com/xzhih/dell-7460-7560-hackintosh",
+            "OS": "10.13 10.14"
+        },
+        {
+            "Audio": "Realtek ALC3246",
+            "Author": "黑果小兵",
+            "CPU": "i5-7200u i7-7500u",
+            "Device": "燃7000 7x60/7x72",
+            "Link": "https://github.com/daliansky/dell7000",
+            "OS": "10.13 10.14"
+        },
+        {
+            "Audio": "Realtek ALC668",
+            "Author": "the-darkvoid",
+            "CPU": "i7-4712HQ",
+            "Device": "XPS 9530",
+            "Link": "https://github.com/the-darkvoid/XPS9530-OSX/",
+            "OS": "10.12 10.13"
+        },
+        {
+            "Audio": "Realtek ALC298",
+            "Author": "corenel",
+            "CPU": "i5-6300HQ",
+            "Device": "XPS 9550",
+            "Link": "https://github.com/corenel/XPS9550-macOS",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "",
+            "Author": "wmchris",
+            "CPU": "",
+            "Device": "XPS 9550",
+            "Link": "https://github.com/wmchris/DellXPS15-9550-OSX",
+            "OS": "10.12 ~ 10.14"
+        },
+        {
+            "Audio": "",
+            "Author": "gunslinger23",
+            "CPU": "i7-7700HQ",
+            "Device": "XPS 9560",
+            "Link": "https://github.com/gunslinger23/XPS15-9560-High-Sierra",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "",
+            "Author": "syscl",
+            "CPU": "i7-6560U",
+            "Device": "XPS 9350",
+            "Link": "https://github.com/syscl/XPS9350-macOS",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "",
+            "Author": "icedman",
+            "CPU": "i7-6560U",
+            "Device": "XPS 9350",
+            "Link": "https://github.com/icedman/XPS13-9350-hackintosh",
+            "OS": "10.11 10.12"
+        },
+        {
+            "Audio": "Realtek ALC256",
+            "Author": "peapon",
+            "CPU": "i7-8550U",
+            "Device": "XPS 9360",
+            "Link": "https://github.com/peapon/dell-xps-9360",
+            "OS": "10.13 10.14"
+        },
+        {
+            "Audio": "Realtek ALC256",
+            "Author": "the-darkvoid",
+            "CPU": "i5-7200U",
+            "Device": "XPS 9360",
+            "Link": "https://github.com/the-darkvoid/XPS9360-macOS",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "Realtek ALC298",
+            "Author": "RockJesus",
+            "CPU": "i7-7700HQ",
+            "Device": "Alienware-17-R4",
+            "Link": "https://github.com/RockJesus/Alienware-17-R4-I7-7700HQ-MacOS-High-Sierra",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "",
+            "Author": "RockJesus",
+            "CPU": "i7-6700HQ",
+            "Device": "Dell 7559",
+            "Link": "https://github.com/RockJesus/Dell-7559-I7-6700HQ-4K-touch-MacOS-High-Sierra",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "",
+            "Author": "crackself",
+            "CPU": "i5-6300HQ",
+            "Device": "Dell 7559",
+            "Link": "https://github.com/crackself/Dell-7559-Hackintosh",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "Realtek ALC668",
+            "Author": "syscl",
+            "CPU": "i7-4712HQ",
+            "Device": "M3800/XPS9530",
+            "Link": "https://github.com/syscl/M3800",
+            "OS": "10.13"
+        }
+    ]
+}

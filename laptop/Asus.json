@@ -1,0 +1,84 @@
+{
+    "Asus": [
+        {
+            "Audio": "",
+            "Author": "fidele007",
+            "CPU": "i7-6700HQ",
+            "Device": "ROG GL552VW",
+            "Link": "https://github.com/fidele007/Asus-ROG-GL552VW-Hackintosh",
+            "OS": "10.13 10.14"
+        },
+        {
+            "Audio": "",
+            "Author": "gaoliang",
+            "CPU": "i5-4200H",
+            "Device": "X550JX ",
+            "Link": "https://github.com/gaoliang/ASUS-X550JX-Hackintosh",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "Realtek ALC269-VB",
+            "Author": "badruzeus",
+            "CPU": "i3-2330M",
+            "Device": "A43SJ",
+            "Link": "https://github.com/badruzeus/Hackintosh-Asus-A43SJ",
+            "OS": "10.14"
+        },
+        {
+            "Audio": "Realtek CX20751",
+            "Author": "athlonreg",
+            "CPU": "i5-4210u",
+            "Device": "F455LD",
+            "Link": "https://github.com/athlonreg/ASUS-F455LD-i5-4210u",
+            "OS": "10.14"
+        },
+        {
+            "Audio": "Conexant CX8050",
+            "Author": "tctien342",
+            "CPU": "i5-8250U",
+            "Device": "S510UA",
+            "Link": "https://github.com/tctien342/Asus-Vivobook-S510UA-High-Sierra-10.13-Hackintosh",
+            "OS": "10.14"
+        },
+        {
+            "Audio": "",
+            "Author": "Xc2333",
+            "CPU": "",
+            "Device": "FX50J",
+            "Link": "https://github.com/Xc2333/Hackintosh-ASUS-FX50J",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "",
+            "Author": "hieplpvip",
+            "CPU": "KabyLake",
+            "Device": "Zenbook",
+            "Link": "https://github.com/hieplpvip/ASUS-ZENBOOK-HACKINTOSH",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "Conexant CX8050",
+            "Author": "tctien342",
+            "CPU": "i5-8250U",
+            "Device": "Vivobook S510UA",
+            "Link": "https://github.com/tctien342/Asus-Vivobook-S510UA-High-Sierra-10.13-Hackintosh",
+            "OS": "10.14"
+        },
+        {
+            "Audio": "",
+            "Author": "southernvevo",
+            "CPU": "",
+            "Device": "K55VD",
+            "Link": "https://github.com/southernvevo/ASUS-K55VD-HACKINTOSH",
+            "OS": "10.10 ~ 10.14"
+        },
+        {
+            "Audio": "Realtek ALC269VB",
+            "Author": "danieleds",
+            "CPU": "i5-3317U",
+            "Device": "UX32VD",
+            "Link": "https://github.com/danieleds/Asus-UX32VD-Hackintosh",
+            "OS": "10.12"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Acer": [
+        {
+            "Audio": "Realtek ALC269",
+            "Author": "Matthew",
+            "CPU": "i5-3230M",
+            "Device": "Aspire E1-471g",
+            "Link": "https://github.com/matthew728960/Clover-ACER-E1-471G",
+            "OS": "10.13"
+        },
+        {
+            "Audio": "",
+            "Author": "Kaijun",
+            "CPU": "i7-4500U",
+            "Device": "Aspire V5-573G",
+            "Link": "https://github.com/Kaijun/Acer-V5-573G-Hackintosh",
+            "OS": "10.11"
+        },
+        {
+            "Audio": "Realtek ALC283",
+            "Author": "GalaticStryder",
+            "CPU": "i3-5005U",
+            "Device": "Aspire E5-571-376T",
+            "Link": "https://github.com/GalaticStryder/Acer-E5-571-Hackintosh",
+            "OS": "10.11"
+        },
+        {
+            "Audio": "",
+            "Author": "Ty3uK",
+            "CPU": "",
+            "Device": "Aspire V3-371-52FF",
+            "Link": "https://github.com/Ty3uK/52ff-elcapitan-toolbox",
+            "OS": "10.13"
+        }
+    ]
+}

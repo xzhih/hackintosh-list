@@ -1,0 +1,28 @@
+{
+    "XiaoMi": [
+        {
+            "Device": "XiaoMi Pro",
+            "CPU": "i5-8250U i7-8550U",
+            "Audio": "Realtek ALC298",
+            "OS": "10.13 10.14",
+            "Author": "黑果小兵",
+            "Link": "https://github.com/daliansky/XiaoMi-Pro"
+        },
+        {
+            "Device": "XiaoMi Air",
+            "CPU": "i7-7500U",
+            "Audio": "Realtek ALC255",
+            "OS": "10.13",
+            "Author": "ourfor",
+            "Link": "https://github.com/ourfor/Mibook-air"
+        },
+        {
+            "Device": "XiaoMi Air",
+            "CPU": "i7-7500U",
+            "Audio": "Realtek ALC255",
+            "OS": "10.13",
+            "Author": "whtiehack",
+            "Link": "https://github.com/whtiehack/XiaoMi-Air"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+	"Lilu & Plugins": [
+		{
+			"Name": "Lilu",
+			"Link": "https://github.com/acidanthera/Lilu",
+			"Description": "Arbitrary kext and process patching on macOS."
+		},
+		{
+			"Name": "AirportBrcmFixup",
+			"Link": "https://github.com/acidanthera/AirportBrcmFixup",
+			"Description": "Various patches for Broadcom Airport Wi-Fi cards."
+		},
+		{
+			"Name": "AppleALC",
+			"Link": "https://github.com/acidanthera/AppleALC",
+			"Description": "Native macOS HD audio for not officially supported codecs."
+		},
+		{
+			"Name": "AppleBacklightFixup",
+			"Link": "https://bitbucket.org/RehabMan/applebacklightfixup",
+			"Description": "Workarounds Clover limitation to patch AppleBacklight.kext in OS Installer and Recovery, original repository by hieplpvip."
+		},
+		{
+			"Name": "ATH9KFixup",
+			"Link": "https://bitbucket.org/RehabMan/ath9kfixup",
+			"Description": "Various patches for unsupported Atheros Wi-Fi cards, original repository by chunnann."
+		},
+		{
+			"Name": "BT4LEContiunityFixup",
+			"Link": "https://github.com/acidanthera/BT4LEContiunityFixup",
+			"Description": "Enable BT4LE-Handoff-Hotspot features."
+		},
+		{
+			"Name": "CPUFriend",
+			"Link": "https://github.com/PMheart/CPUFriend",
+			"Description": "Dynamic power management data injection."
+		},
+		{
+			"Name": "HibernationFixup",
+			"Link": "https://github.com/acidanthera/HibernationFixup",
+			"Description": "Enable 3 & 25 mode hibernation on certain hardware."
+		},
+		{
+			"Name": "NightShiftUnlocker",
+			"Link": "https://github.com/Austere-J/NightShiftUnlocker",
+			"Description": "Enables Night Shift on all the models."
+		},
+		{
+			"Name": "NoTouchID",
+			"Link": "https://github.com/al3xtjames/NoTouchID",
+			"Description": "Disables Touch ID checks causing hangs."
+		},
+		{
+			"Name": "NoVPAJpeg",
+			"Link": "https://github.com/vulgo/NoVPAJpeg",
+			"Description": "Workarounds Quicklook issues on 10.14 when using macmodels with IGPU on CPUs without IGPU. Can be used as an alternative to MacPro6,1 model."
+		},
+		{
+			"Name": "VirtualSMC",
+			"Link": "https://github.com/acidanthera/VirtualSMC",
+			"Description": "Advanced SMC emulation."
+		},
+		{
+			"Name": "WhateverGreen",
+			"Link": "https://github.com/acidanthera/WhateverGreen",
+			"Description": "Various patches necessary for GPUs."
+		}
+	],
+	"Others": [
+		{
+			"Name": "BrcmPatchRAM",
+			"Link": "https://bitbucket.org/RehabMan/os-x-brcmpatchram/downloads/",
+			"Description": "BrcmPatchRAM kext is an OS X driver which applies PatchRAM updates for Broadcom RAMUSB based devices."
+		},
+		{
+			"Name": "FakePCIID",
+			"Link": "https://bitbucket.org/RehabMan/os-x-fake-pci-id/downloads/",
+			"Description": "The purpose of this kext is to attach to any IOPCIDevice so it can provide alternate PCI ID when another driver attached to the same device requests them."
+		},
+		{
+			"Name": "FakeSMC",
+			"Link": "https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/",
+			"Description": "An open source SMC device driver/emulator developed by netkas."
+		},
+		{
+			"Name": "USBInjectAll",
+			"Link": "https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/",
+			"Description": "This kext attempts to inject all ports for each controller, and for hubs as well."
+		},
+		{
+			"Name": "Realtek RTL8111",
+			"Link": "https://github.com/Mieze/RTL8111_driver_for_OS_X/releases",
+			"Description": "OS X open source driver for the Realtek RTL8111/8168 family."
+		},
+		{
+			"Name": "IntelMausiEthernet",
+			"Link": "https://bitbucket.org/RehabMan/os-x-intel-network/downloads/",
+			"Description": "OS X driver for Intel onboard LAN."
+		},
+		{
+			"Name": "ACPIBatteryManager",
+			"Link": "https://bitbucket.org/RehabMan/os-x-acpi-battery-driver/downloads/",
+			"Description": "Implements an Advanced Configuration and Power Interface (ACPI) based battery manager kernel extension (kext/driver) for non-Apple laptops running OS X."
+		},
+		{
+			"Name": "VoodooPS2Controller",
+			"Link": "https://bitbucket.org/RehabMan/os-x-voodoo-ps2-controller/downloads/",
+			"Description": "Contains updated Voodoo PS/2 Controller, improved Keyboard & Synaptics TouchPad."
+		}
+	]
+}

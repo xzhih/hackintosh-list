@@ -1,0 +1,20 @@
+{
+    "Gigabyte": [
+        {
+            "Audio": "",
+            "Author": "Errrneist",
+            "CPU": " i7-7700HQ",
+            "Device": "Aero 15W",
+            "Link": "https://github.com/Errrneist/Hackintosh-Aero-15W",
+            "OS": "10.12 ~ 10.14"
+        },
+        {
+            "Audio": "",
+            "Author": "gnehs",
+            "CPU": "i7-7700HQ",
+            "Device": "Sabre15K",
+            "Link": "https://github.com/gnehs/Sabre15KClover",
+            "OS": "10.13"
+        }
+    ]
+}
