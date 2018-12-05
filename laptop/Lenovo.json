@@ -1,6 +1,14 @@
 {
     "Lenovo": [
         {
+            "Audio": "Realtek ALC236",
+            "Author": "黑果小兵",
+            "CPU": "i7-8565U",
+            "Device": "小新Air 13 IWL",
+            "Link": "https://github.com/daliansky/Lenovo-Air13-IWL",
+            "OS": "10.13 10.14"
+        },
+        {
             "Audio": "",
             "Author": "tylernguyen",
             "CPU": "",
