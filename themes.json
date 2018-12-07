@@ -10,6 +10,11 @@
 		"Link": "https://sourceforge.net/p/cloverefiboot/themes/ci/master/tree/themes/Aero256"
 	},
 	{
+		"Name": "alienware",
+		"Screenshot": "https://github.com/RockJesus/Alienware-anime-themes-for-CLOVER-EFI-bootloader/blob/master/screenshots/alienwarewb.gif",
+		"Link": "https://github.com/RockJesus/Alienware-anime-themes-for-CLOVER-EFI-bootloader"
+	},
+	{
 		"Name": "Apocalypse",
 		"Screenshot": "https://pic.zhih.me/hackintosh/themes/Apocalypse.jpg",
 		"Link": "https://sourceforge.net/p/cloverefiboot/themes/ci/master/tree/themes/Apocalypse"
