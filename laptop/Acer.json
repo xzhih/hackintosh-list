@@ -2,8 +2,8 @@
     "Acer": [
         {
             "Audio": "Realtek ALC269",
-            "Author": "tsepangching",
-            "CPU": "i5-3210m",
+            "Author": "Matthew",
+            "CPU": "i5-3230M",
             "Device": "Aspire E1-471g",
             "Link": "https://github.com/matthew728960/Clover-ACER-E1-471G",
             "OS": "10.13"
