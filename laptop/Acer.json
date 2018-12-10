@@ -31,6 +31,14 @@
             "Device": "Aspire V3-371-52FF",
             "Link": "https://github.com/Ty3uK/52ff-elcapitan-toolbox",
             "OS": "10.13"
+        },
+        {
+            "Device": "TravelMate TX40-G2",
+            "Author": "ysx25261465",
+            "CPU": "i5-7200U",
+            "Audio": "Realtek ALC255",
+            "OS": "10.14",
+            "Link": "https://github.com/ysx25261465/Acer-TravelMate-TX40-G2"
         }
     ]
 }

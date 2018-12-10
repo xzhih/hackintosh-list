@@ -111,6 +111,14 @@
             "Device": "M3800/XPS9530",
             "Link": "https://github.com/syscl/M3800",
             "OS": "10.13"
+        },
+        {
+            "Audio": "Realtek ALC3234",
+            "Author": "YGQ8988",
+            "CPU": "I5-7200U",
+            "Device": "Inspiron 3568",
+            "Link": "https://github.com/YGQ8988/dell-3568",
+            "OS": "10.13 10.14"
         }
     ]
 }
