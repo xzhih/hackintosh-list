@@ -169,6 +169,14 @@
             "OS": "10.13"
         },
         {
+            "Audio": "Realtek ALC 292",
+            "Author": "xiaobaileshi",
+            "CPU": "i5-4200U",
+            "Device": "Thinkpad X240",
+            "Link": "https://github.com/xiaobaileshi/Hacintosh/tree/master/ThinkpadX240",
+            "OS": "10.14"
+        },
+        {
             "Audio": "Realtek ALC293",
             "Author": "黑果小兵",
             "CPU": "i5-6200U",
