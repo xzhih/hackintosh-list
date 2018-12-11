@@ -9,6 +9,14 @@
             "OS": "10.13 10.14"
         },
         {
+            "Audio": "Realtek ALC236",
+            "Author": "candylie",
+            "CPU": "i5-8250U",
+            "Device": "小新Air 14(2018)",
+            "Link": "https://github.com/candylie/Lenovo-XIAOXIN-Ari14-2018-Clover",
+            "OS": "10.14"
+        },
+        {
             "Audio": "",
             "Author": "tylernguyen",
             "CPU": "",
