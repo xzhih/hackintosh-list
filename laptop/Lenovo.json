@@ -1,5 +1,13 @@
 {
     "Lenovo": [
+         {
+            "Audio": "Realtek ALC292",
+            "Author": "xiaobaileshi",
+            "CPU": "i5-4200U",
+            "Device": "thinkpad X240",
+            "Link": "https://github.com/xiaobaileshi/Hacintosh/tree/master/ThinkpadX240",
+            "OS": "10.14"
+        },
         {
             "Audio": "Realtek ALC236",
             "Author": "黑果小兵",
