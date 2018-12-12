@@ -191,6 +191,14 @@
             "Device": "thinkpad X240",
             "Link": "https://github.com/xiaobaileshi/Hacintosh/tree/master/ThinkpadX240",
             "OS": "10.14.2"
+        },
+        {
+            "Audio": "Realtek ALC282",
+            "Author": "xiaobaileshi",
+            "CPU": "I5 4200M",
+            "Device": "Y410P",
+            "Link": "https://github.com/xiaobaileshi/Hacintosh/tree/master/Y410P",
+            "OS": "10.13  10.14"
         }
     ]
 }
