@@ -1,13 +1,5 @@
 {
     "Lenovo": [
-         {
-            "Audio": "Realtek ALC292",
-            "Author": "xiaobaileshi",
-            "CPU": "i5-4200U",
-            "Device": "thinkpad X240",
-            "Link": "https://github.com/xiaobaileshi/Hacintosh/tree/master/ThinkpadX240",
-            "OS": "10.14"
-        },
         {
             "Audio": "Realtek ALC236",
             "Author": "黑果小兵",
@@ -207,14 +199,6 @@
             "Device": "G470",
             "Link": "https://github.com/hunterMG/DSDT-Lenovo-G470",
             "OS": "10.11 10.12"
-        },
-        {
-            "Audio": "ALC 292",
-            "Author": "xiaobaileshi",
-            "CPU": "I5 4200U",
-            "Device": "thinkpad X240",
-            "Link": "https://github.com/xiaobaileshi/Hacintosh/tree/master/ThinkpadX240",
-            "OS": "10.14.2"
         },
         {
             "Audio": "Realtek ALC282",
