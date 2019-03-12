@@ -1,5 +1,15 @@
 [
 	{
+		"Motherboard": "微星Z370m",
+		"CPU": "i5-8400",
+		"GPU": "UHD630",
+		"Audio": "Realtek ALC892",
+		"Network": "BCM943602cs",
+		"OS": "10.14",
+		"Author": "LiuGang！",
+		"Link": "http://bbs.pcbeta.com/viewthread-1803566-1-1.html"
+	},
+	{
 		"Motherboard": "微星B360m 迫击炮+",
 		"CPU": "i5-8400",
 		"GPU": "UHD630",
