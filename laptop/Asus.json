@@ -79,6 +79,14 @@
             "Device": "UX32VD",
             "Link": "https://github.com/danieleds/Asus-UX32VD-Hackintosh",
             "OS": "10.12"
+        },
+        {
+            "Audio": "Realtek ALC294",
+            "Author": "Bat.bat(williambj1)",
+            "CPU": "i7-8750H",
+            "Device": "ROG GX531GS",
+            "Link": "https://github.com/williambj1/Hackintosh-EFI-Asus-Zephyrus-S-GX531",
+            "OS": "10.13.6(17G2112) ~ 10.14"
         }
     ]
 }

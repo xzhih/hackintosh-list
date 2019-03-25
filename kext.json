@@ -61,6 +61,11 @@
 			"Description": "Advanced SMC emulation."
 		},
 		{
+			"Name": "AsusSMC",
+			"Link": "https://github.com/hieplpvip/AsusSMC",
+			"Description": "A VirtualSMC plugin provides native support for ALS, keyboard backlight and Fn keys for Asus laptops on macOS."
+		},
+		{
 			"Name": "WhateverGreen",
 			"Link": "https://github.com/acidanthera/WhateverGreen",
 			"Description": "Various patches necessary for GPUs."
@@ -106,6 +111,11 @@
 			"Name": "VoodooPS2Controller",
 			"Link": "https://bitbucket.org/RehabMan/os-x-voodoo-ps2-controller/downloads/",
 			"Description": "Contains updated Voodoo PS/2 Controller, improved Keyboard & Synaptics TouchPad."
+		},
+		{
+			"Name": "VoodooI2C",
+			"Link": "https://github.com/alexandred/VoodooI2C",
+			"Description": "VoodooI2C is a project consisting of macOS kernel extensions that add support for I2C bus devices."
 		}
 	]
 }
