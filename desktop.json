@@ -1,5 +1,15 @@
 [
 	{
+		"Motherboard": "微星Z370-A",
+		"CPU": "i7-8700",
+		"GPU": "UHD630+RX570",
+		"Audio": "Realtek ALC892",
+		"Network": "Realtek RTL8168H/8111H",
+		"OS": "10.14",
+		"Author": "黑果小兵",
+		"Link": "https://github.com/daliansky/Z370-Hackintosh"
+	},
+	{
 		"Motherboard": "微星Z370m",
 		"CPU": "i5-8400",
 		"GPU": "UHD630",
