@@ -295,6 +295,11 @@
 		"Link": "https://sourceforge.net/p/cloverefiboot/themes/ci/master/tree/themes/Retina4k"
 	},
 	{
+		"Name": "ROG Mojave",
+		"Screenshot": "https://raw.githubusercontent.com/williambj1/ROG-Mojave/master/ScreenShots/ROG-Mojave.png",
+		"Link": "https://github.com/williambj1/ROG-Mojave"
+	},
+	{
 		"Name": "Romance",
 		"Screenshot": "https://pic.zhih.me/hackintosh/themes/Romance.jpg",
 		"Link": "https://sourceforge.net/p/cloverefiboot/themes/ci/master/tree/themes/Romance"
