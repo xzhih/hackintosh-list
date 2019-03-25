@@ -201,6 +201,14 @@
             "OS": "10.11 10.12"
         },
         {
+            "Audio": "Conexant CX20752",
+            "Author": "upupming",
+            "CPU": "i5-5200U",
+            "Device": "G50-80",
+            "Link": "https://github.com/upupming/Lenovo-G50-80-Clover",
+            "OS": "10.14"
+        },
+        {
             "Audio": "Realtek ALC282",
             "Author": "xiaobaileshi",
             "CPU": "I5 4200M",
