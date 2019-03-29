@@ -1,152 +1,161 @@
-[
-	{
-		"Motherboard": "微星Z370-A",
-		"CPU": "i7-8700",
-		"GPU": "UHD630+RX570",
-		"Audio": "Realtek ALC892",
-		"Network": "Realtek RTL8168H/8111H",
-		"OS": "10.14",
-		"Author": "黑果小兵",
-		"Link": "https://github.com/daliansky/Z370-Hackintosh"
-	},
-	{
-		"Motherboard": "微星Z370m",
-		"CPU": "i5-8400",
-		"GPU": "UHD630",
-		"Audio": "Realtek ALC892",
-		"Network": "BCM943602cs",
-		"OS": "10.14",
-		"Author": "LiuGang！",
-		"Link": "http://bbs.pcbeta.com/viewthread-1803566-1-1.html"
-	},
-	{
-		"Motherboard": "微星B360m 迫击炮+",
-		"CPU": "i5-8400",
-		"GPU": "UHD630",
-		"Audio": "Realtek ALC892",
-		"Network": "BCM94360cs",
-		"OS": "10.14",
-		"Author": "A-ED",
-		"Link": "http://bbs.pcbeta.com/viewthread-1795302-1-1.html"
-	},
-	{
-		"Motherboard": "Asus H81M-K",
-		"CPU": "i3/i5/i7",
-		"GPU": "HD4400/4600",
-		"Audio": "",
-		"Network": "",
-		"OS": "10.13",
-		"Author": "Slbomber",
-		"Link": "https://github.com/Slbomber/AsusH81MK-macos"
-	},
-	{
-		"Motherboard": "GA-Z77-DS3H",
-		"CPU": "2nd/3rd gen",
-		"GPU": "",
-		"Audio": "Realtek ALC887",
-		"Network": "AR8161",
-		"OS": "10.11",
-		"Author": "tkrotoff",
-		"Link": "https://github.com/tkrotoff/Gigabyte-GA-Z77-DS3H-rev1.1-Hackintosh"
-	},
-	{
-		"Motherboard": "GA-H97-D3H",
-		"CPU": "i7-4770S",
-		"GPU": "HD4600",
-		"Audio": "",
-		"Network": "Realtek 8112AU",
-		"OS": "10.12",
-		"Author": "korzhyk",
-		"Link": "https://github.com/korzhyk/Clover_GA-H97-D3H"
-	},
-	{
-		"Motherboard": "Z270M-D3H",
-		"CPU": "i7-7700K",
-		"GPU": "Nvidia GTX 1050 Ti",
-		"Audio": "",
-		"Network": "",
-		"OS": "10.12",
-		"Author": "LER0ever",
-		"Link": "https://github.com/LER0ever/Hackintosh"
-	},
-	{
-		"Motherboard": "GA X99P-SLI",
-		"CPU": "Intel 6950X",
-		"GPU": "Nvidia Titan Xp",
-		"Audio": "",
-		"Network": "BCM94360CD",
-		"OS": "10.13",
-		"Author": "koush",
-		"Link": "https://github.com/koush/EFI-X99"
-	},
-	{
-		"Motherboard": "Z170X UD3 Ultra",
-		"CPU": "i7-6700k",
-		"GPU": "HD530",
-		"Audio": "",
-		"Network": "",
-		"OS": "10.12",
-		"Author": "RoJoHub",
-		"Link": "https://github.com/RoJoHub/Hackintosh"
-	},
-	{
-		"Motherboard": "华南 X79 V2",
-		"CPU": "E5-2670 V1 C2",
-		"GPU": "蓝宝石RX560",
-		"Audio": "Realtek ALC662 V3",
-		"Network": "Rtl8100/8600",
-		"OS": "10.13 10.14",
-		"Author": "cheneyveron",
-		"Link": "https://github.com/cheneyveron/clover-x79-e5-2670-gtx650"
-	},
-	{
-		"Motherboard": "EliteDesk 800 G2",
-		"CPU": "i7-6700",
-		"GPU": "HD530",
-		"Audio": "Realtek ALC221",
-		"Network": "Intel® I219LM",
-		"OS": "10.12",
-		"Author": "sakoula",
-		"Link": "https://github.com/sakoula/hackintosh.hp.800.g2"
-	},
-	{
-		"Motherboard": "Deskmini",
-		"CPU": "i5-7500",
-		"GPU": "HD630",
-		"Audio": "Realtek ALC283",
-		"Network": "Intel® I219V",
-		"OS": "10.12",
-		"Author": "yunWJR",
-		"Link": "https://github.com/yunWJR/Hackintosh-deskmini-efi"
-	},
-	{
-		"Motherboard": "华擎 Z370m-pro4",
-		"CPU": "i7-8700k",
-		"GPU": "GT750TI",
-		"Audio": "Realtek ALC892",
-		"Network": "Intel",
-		"OS": "10.13",
-		"Author": "yunWJR",
-		"Link": "https://github.com/yunWJR/Hackintosh_List"
-	},
-	{
-		"Motherboard": "华硕 b85m",
-		"CPU": "i5-4590",
-		"GPU": "HD4600",
-		"Audio": "",
-		"Network": "Intel",
-		"OS": "10.13",
-		"Author": "yunWJR",
-		"Link": "https://github.com/yunWJR/Hackintosh_List"
-	},
-	{
-		"Motherboard": "MSI b360",
-		"CPU": "i5-8400",
-		"GPU": "UHD630",
-		"Audio": "",
-		"Network": "Intel",
-		"OS": "10.14",
-		"Author": "SuperNG6",
-		"Link": "https://github.com/SuperNG6/MSI-b360-10.14.1-EFI"
-	}
+[{
+        "Motherboard": "微星Z370-A",
+        "CPU": "i7-8700",
+        "GPU": "UHD630+RX570",
+        "Audio": "Realtek ALC892",
+        "Network": "Realtek RTL8168H/8111H",
+        "OS": "10.14",
+        "Author": "黑果小兵",
+        "Link": "https://github.com/daliansky/Z370-Hackintosh"
+    },
+    {
+        "Motherboard": "微星Z370m",
+        "CPU": "i5-8400",
+        "GPU": "UHD630",
+        "Audio": "Realtek ALC892",
+        "Network": "BCM943602cs",
+        "OS": "10.14",
+        "Author": "LiuGang！",
+        "Link": "http://bbs.pcbeta.com/viewthread-1803566-1-1.html"
+    },
+    {
+        "Motherboard": "微星B360m 迫击炮+",
+        "CPU": "i5-8400",
+        "GPU": "UHD630",
+        "Audio": "Realtek ALC892",
+        "Network": "BCM94360cs",
+        "OS": "10.14",
+        "Author": "A-ED",
+        "Link": "http://bbs.pcbeta.com/viewthread-1795302-1-1.html"
+    },
+    {
+        "Motherboard": "Asus H81M-K",
+        "CPU": "i3/i5/i7",
+        "GPU": "HD4400/4600",
+        "Audio": "",
+        "Network": "",
+        "OS": "10.13",
+        "Author": "Slbomber",
+        "Link": "https://github.com/Slbomber/AsusH81MK-macos"
+    },
+    {
+        "Motherboard": "GA-Z77-DS3H",
+        "CPU": "2nd/3rd gen",
+        "GPU": "",
+        "Audio": "Realtek ALC887",
+        "Network": "AR8161",
+        "OS": "10.11",
+        "Author": "tkrotoff",
+        "Link": "https://github.com/tkrotoff/Gigabyte-GA-Z77-DS3H-rev1.1-Hackintosh"
+    },
+    {
+        "Motherboard": "GA-H97-D3H",
+        "CPU": "i7-4770S",
+        "GPU": "HD4600",
+        "Audio": "",
+        "Network": "Realtek 8112AU",
+        "OS": "10.12",
+        "Author": "korzhyk",
+        "Link": "https://github.com/korzhyk/Clover_GA-H97-D3H"
+    },
+    {
+        "Motherboard": "Z270M-D3H",
+        "CPU": "i7-7700K",
+        "GPU": "Nvidia GTX 1050 Ti",
+        "Audio": "",
+        "Network": "",
+        "OS": "10.12",
+        "Author": "LER0ever",
+        "Link": "https://github.com/LER0ever/Hackintosh"
+    },
+    {
+        "Motherboard": "GA X99P-SLI",
+        "CPU": "Intel 6950X",
+        "GPU": "Nvidia Titan Xp",
+        "Audio": "",
+        "Network": "BCM94360CD",
+        "OS": "10.13",
+        "Author": "koush",
+        "Link": "https://github.com/koush/EFI-X99"
+    },
+    {
+        "Motherboard": "Z170X UD3 Ultra",
+        "CPU": "i7-6700k",
+        "GPU": "HD530",
+        "Audio": "",
+        "Network": "",
+        "OS": "10.12",
+        "Author": "RoJoHub",
+        "Link": "https://github.com/RoJoHub/Hackintosh"
+    },
+    {
+        "Motherboard": "华南 X79 V2",
+        "CPU": "E5-2670 V1 C2",
+        "GPU": "蓝宝石RX560",
+        "Audio": "Realtek ALC662 V3",
+        "Network": "Rtl8100/8600",
+        "OS": "10.13 10.14",
+        "Author": "cheneyveron",
+        "Link": "https://github.com/cheneyveron/clover-x79-e5-2670-gtx650"
+    },
+    {
+        "Motherboard": "EliteDesk 800 G2",
+        "CPU": "i7-6700",
+        "GPU": "HD530",
+        "Audio": "Realtek ALC221",
+        "Network": "Intel® I219LM",
+        "OS": "10.12",
+        "Author": "sakoula",
+        "Link": "https://github.com/sakoula/hackintosh.hp.800.g2"
+    },
+    {
+        "Motherboard": "Deskmini",
+        "CPU": "i5-7500",
+        "GPU": "HD630",
+        "Audio": "Realtek ALC283",
+        "Network": "Intel® I219V",
+        "OS": "10.12",
+        "Author": "yunWJR",
+        "Link": "https://github.com/yunWJR/Hackintosh-deskmini-efi"
+    },
+    {
+        "Motherboard": "华擎 Z370m-pro4",
+        "CPU": "i7-8700k",
+        "GPU": "GT750TI",
+        "Audio": "Realtek ALC892",
+        "Network": "Intel",
+        "OS": "10.13",
+        "Author": "yunWJR",
+        "Link": "https://github.com/yunWJR/Hackintosh_List"
+    },
+    {
+        "Motherboard": "华硕 b85m",
+        "CPU": "i5-4590",
+        "GPU": "HD4600",
+        "Audio": "",
+        "Network": "Intel",
+        "OS": "10.13",
+        "Author": "yunWJR",
+        "Link": "https://github.com/yunWJR/Hackintosh_List"
+    },
+    {
+        "Motherboard": "MSI b360",
+        "CPU": "i5-8400",
+        "GPU": "UHD630",
+        "Audio": "",
+        "Network": "Intel",
+        "OS": "10.14",
+        "Author": "SuperNG6",
+        "Link": "https://github.com/SuperNG6/MSI-b360-10.14.1-EFI"
+    },
+    {
+        "Motherboard": "GIGABYTE GA-Z97X-UD3H",
+        "CPU": "Intel Core i7-4790K",
+        "GPU": "DATALAND RX 580 8G X-Serial",
+        "Audio": "Realtek ALC1150",
+        "Network": "Intel GbE(10/100/1000 Mbit)",
+        "OS": "10.14.4",
+        "Author": "BenjaminX",
+        "Link": "https://github.com/BenjaminX/hackintosh-list/raw/master/EFI10.14.4.zip"
+    }
 ]
