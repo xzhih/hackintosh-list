@@ -1,4 +1,13 @@
 [
+	{"Motherboard": "华硕（ASUS）TUF B360M-PLUS GAMING S",
+		"CPU": "i5-9600K",
+		"GPU": "UHD630+蓝宝石RX470 4G DDR5超白金",
+		"Audio": "",
+		"Network": "BCM94360CS2",
+		"OS": "10.14",
+		"Author": "崔仪洁",
+		"Link": "https://github.com/cc976655/MyBlackAppleEFI"},
+	
 	{
 		"Motherboard": "微星Z370-A",
 		"CPU": "i7-8700",
