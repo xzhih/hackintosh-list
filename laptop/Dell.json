@@ -119,7 +119,15 @@
             "Device": "Inspiron 3568",
             "Link": "https://github.com/YGQ8988/dell-3568",
             "OS": "10.13 10.14"
-        }
+        },
+        {
+            "Audio": "Realtek ALC3254",
+            "Author": "jfneto",
+            "CPU": "I7-8565U",
+            "Device": "Inspiron 15 7580",
+            "Link": "https://github.com/jfneto/Dell-Inspiron-15-7580-i7-8565U",
+            "OS": "10.13 10.14"
+        },
         {
             "Audio": "Realtek ALC3246",
             "Author": "Wmyaaa",
