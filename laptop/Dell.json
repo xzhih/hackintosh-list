@@ -127,7 +127,14 @@
             "Device": "Inspiron 15 7580",
             "Link": "https://github.com/jfneto/Dell-Inspiron-15-7580-i7-8565U",
             "OS": "10.13 10.14"
+        },
+        {
+            "Audio": "Realtek ALC3246",
+            "Author": "Wmyaaa",
+            "CPU": "I5-7300HQ",
+            "Device": "游匣 5577",
+            "Link": "https://github.com/Wmyaaa/Dell5577-hackintosh-clover",
+            "OS": "10.14"
         }
-        
     ]
 }
