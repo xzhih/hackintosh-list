@@ -9,6 +9,14 @@
             "OS": "10.13"
         },
         {
+            "Audio": "Realtek ALC255",
+            "Author": "Rockavoldy",
+            "CPU": "i3-6006U",
+            "Device": "Aspire E5-476G",
+            "Link": "https://github.com/rockavoldy/Acer-E5-476G-Hackintosh",
+            "OS": "10.14.5"
+        },
+        {
             "Audio": "",
             "Author": "Kaijun",
             "CPU": "i7-4500U",
