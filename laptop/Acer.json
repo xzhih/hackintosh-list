@@ -41,6 +41,14 @@
             "OS": "10.13"
         },
         {
+            "Audio": "ALC255",
+            "Author": "h-okon",
+            "CPU": "i5-8205U",
+            "Device": "Aspire A515-51G",
+            "Link": "https://github.com/h-okon/Acer-Aspire-A515-Hackintosh",
+            "OS": "10.14"
+        },
+        {
             "Device": "TravelMate TX40-G2",
             "Author": "ysx25261465",
             "CPU": "i5-7200U",
