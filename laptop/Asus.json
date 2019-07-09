@@ -51,10 +51,18 @@
         {
             "Audio": "",
             "Author": "hieplpvip",
-            "CPU": "KabyLake",
+            "CPU": "KabyLake/KabyLake-R",
             "Device": "Zenbook",
             "Link": "https://github.com/hieplpvip/ASUS-ZENBOOK-HACKINTOSH",
-            "OS": "10.13"
+            "OS": "10.14"
+        },
+        {
+            "Audio": "Realtek ALC255",
+            "Author": "hieplpvip",
+            "CPU": "m3-6Y30",
+            "Device": "UX305CA",
+            "Link": "https://github.com/hieplpvip/ASUS-UX305CA-HACKINTOSH",
+            "OS": "10.14"
         },
         {
             "Audio": "Conexant CX8050",
