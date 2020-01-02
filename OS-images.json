@@ -76,5 +76,35 @@
         "Version": "18E226",
         "Author": "黑果小兵",
         "Link": "https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html"
+    },
+    {
+        "OS": "10.14.5",
+        "Version": "18F132",
+        "Author": "黑果小兵",
+        "Link": "https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html"
+    },
+    {
+        "OS": "10.14.6",
+        "Version": "18G87",
+        "Author": "黑果小兵",
+        "Link": "https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html"
+    },
+    {
+        "OS": "10.15",
+        "Version": "19A583",
+        "Author": "黑果小兵",
+        "Link": "https://blog.daliansky.net/macOS-Catalina-10.15-19A583-Release-version-with-Clover-5093-original-image-Double-EFI-Version.html"
+    },
+    {
+        "OS": "10.15.1",
+        "Version": "19B88",
+        "Author": "黑果小兵",
+        "Link": "https://blog.daliansky.net/macOS-Catalina-10.15.1-19B88-Release-version-with-Clover-5098-original-image-Double-EFI-Version.html"
+    },
+    {
+        "OS": "10.15.2",
+        "Version": "19C57",
+        "Author": "黑果小兵",
+        "Link": "https://blog.daliansky.net/macOS-Catalina-10.15.2-19C57-Release-version-with-Clover-5100-original-image-Double-EFI-Version.html"
     }
 ]
