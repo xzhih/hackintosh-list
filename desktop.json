@@ -158,5 +158,15 @@
 		"OS": "10.14",
 		"Author": "崔仪洁",
 		"Link": "https://github.com/cc976655/MyBlackAppleEFI"
+	},
+	{
+		"Motherboard": "华擎z370 Gaming-ITX-ac",
+		"CPU": "i7-8700k",
+		"GPU": "蓝宝石 RX570",
+		"Audio": "",
+		"Network": "BCM943602CS",
+		"OS": "10.14",
+		"Author": "fangf2018",
+		"Link": "https://github.com/fangf2018/ASRock-Z370-Gaming-ITX-ac-hackintosh"
 	}
 ]
