@@ -215,6 +215,14 @@
             "Device": "Y410P",
             "Link": "https://github.com/xiaobaileshi/Hacintosh/tree/master/Y410P",
             "OS": "10.13  10.14"
+        },
+        {
+            "Audio": "Conexant CX20752",
+            "Author": "chiccheung",
+            "CPU": "i5-5200U",
+            "Device": "G50-80",
+            "Link": "https://github.com/chiccheung/Lenovo-G50-80-macOS",
+            "OS": "10.15.3"
         }
     ]
 }
