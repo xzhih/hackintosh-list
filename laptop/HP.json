@@ -47,6 +47,14 @@
             "OS": "10.12 10.13",
             "Author": "NTT123",
             "Link": "https://github.com/NTT123/Hackintosh-HP-Z420-MacOS-High-Sierra-10.13"
+        },
+        {
+            "Device": "HP Zhan66 Pro14 G2",
+            "CPU": "i5-8265U",
+            "Audio": "Realtek ALC236",
+            "OS": "10.15.3",
+            "Author": "chiccheung",
+            "Link": "https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS"
         }
     ]
 }
