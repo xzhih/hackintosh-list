@@ -135,6 +135,14 @@
             "Device": "游匣 5577",
             "Link": "https://github.com/Wmyaaa/Dell5577-hackintosh-clover",
             "OS": "10.14"
+        },
+        {
+            "Audio": "Realtek ALC3246",
+            "Author": "eduardoborges",
+            "CPU": "i7-8650U",
+            "Device": "Latitude 5490",
+            "Link": "https://github.com/eduardoborges/latitude-5490-hackintosh",
+            "OS": "10.15"
         }
     ]
 }
