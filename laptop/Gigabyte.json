@@ -14,7 +14,7 @@
             "CPU": "i7-7700HQ",
             "Device": "Sabre15K",
             "Link": "https://github.com/gnehs/Sabre15KClover",
-            "OS": "10.13"
+            "OS": "10.13 ~ 10.15"
         }
     ]
 }
