@@ -1,0 +1,12 @@
+{
+    "Airbook": [
+        {
+            "Device": "Airbook 颜值版",
+            "CPU": "i5-6200U",
+            "Audio": "Realtek ALC269",
+            "OS": "10.14.6",
+            "Author": "nabaonan",
+            "Link": "https://github.com/nabaonan/airbook-6200u-efi"
+        }
+    ]
+}
