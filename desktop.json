@@ -168,5 +168,14 @@
 		"OS": "10.14",
 		"Author": "fangf2018",
 		"Link": "https://github.com/fangf2018/ASRock-Z370-Gaming-ITX-ac-hackintosh"
-	}
+	},
+	{
+	"Motherboard": "华南 B75",
+"CPU": "E3-1230-v2",
+"GPU": "迪兰恒进 RX460",
+"Audio": "",
+"Network": "BCM94360CD",
+"OS": "10.15.5",
+"Author": "lafish",
+"Link": "https://github.com/LeUKi/Hackintosh-EFI-huanan_B75"}
 ]
