@@ -17,6 +17,14 @@
             "OS": "10.13 10.14"
         },
         {
+            "Audio": "Realtek ALC3246",
+            "Author": "HowieHye",
+            "CPU": "i7-7500u",
+            "Device": "燃7000 7460",
+            "Link": "https://github.com/HowieHye/Dell-7460-Hackintosh-OC",
+            "OS": "10.15 11.0"
+        },        
+        {
             "Audio": "Realtek ALC668",
             "Author": "the-darkvoid",
             "CPU": "i7-4712HQ",
